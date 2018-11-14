@@ -3,20 +3,20 @@
 var button;
 
 var menuState = {
-    
-    
-    preload: function() { 
-        
+
+
+    preload: function() {
+
     },
-    
-    
+
+
     create: function() {
-        
+
     },
-    
+
     
     update: function() {
-        
+
     },
 
     startGame: function() {
